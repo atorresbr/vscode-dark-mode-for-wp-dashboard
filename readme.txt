@@ -1,6 +1,6 @@
-﻿=== Dark Mode for WP Dashboard ===
-Contributors: naiches
-Tags: dark mode, night mode, dark, dark ui, wordpress dark mode, wordpress dark theme, dark mode dashboard
+﻿=== This is a VSCODE theme Dark Mode for WP Dashboard ===
+Contributors: atorresbr
+Tags: VSCODE dark mode theme, night mode, dark, dark ui, wordpress dark mode, wordpress dark theme, dark mode dashboard
 Tested up to: 5.9.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -9,7 +9,7 @@ Makes your WordPress admin dashboard in dark mode.
 
 == Description ==
 
-Adds a smooth dark mode to the default WordPress dashboard interface. The dark mode can be disabled per user in the profile page.
+Adds a beautiful VSCODE dark mode to the default WordPress dashboard interface. The VSCODE dark mode can be disabled per user in the profile page.
 
 Plugins officially supported:
 * Advanced Custom Fields
